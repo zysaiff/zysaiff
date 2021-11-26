@@ -1,0 +1,12 @@
+.footer-jump span {
+  font-weight: 700;
+}
+.footer-jump button {
+  height: 26px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.footer-jump-input {
+  vertical-align: top;
+  width: 50px;
+}

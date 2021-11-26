@@ -1,0 +1,16 @@
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+table td,
+table th {
+  border: 1px solid #cad9ea;
+  color: #666;
+  height: 40px;
+  text-align: center;
+}
+
+table thead th {
+  background-color: #cce8eb;
+  width: 120px;
+}
